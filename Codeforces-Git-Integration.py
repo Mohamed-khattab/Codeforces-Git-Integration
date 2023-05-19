@@ -311,3 +311,7 @@ class CodeForcesIntegration():
             print(f"Error uploading solution to GitHub: {str(e)}")
 
 
+if __name__ == "__main__":
+    codeForcesIntegration = CodeForcesIntegration()
+    codeForcesIntegration.download_all_solutions()
+
