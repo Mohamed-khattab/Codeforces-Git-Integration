@@ -36,3 +36,4 @@ Coeforces-Git-Integration is a tool that enables you to synchronize and manage y
 - Develop Coeforces-Git-Integration as a Chrome extension for quick access and enhanced integration capabilities.
 - Implement OAuth authentication for secure and standardized access to Codeforces and GitHub APIs.
 
+# please note that it may have some limitations or known issues that are being actively addressed 
