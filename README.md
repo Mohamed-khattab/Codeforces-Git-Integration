@@ -23,7 +23,6 @@ Coeforces-Git-Integration is a tool that enables you to synchronize and manage y
 
 ## Why Use Coeforces-Git-Integration?
 - Easy Solution Management: Keep track of your Codeforces solutions and maintain a centralized repository on GitHub.
-- Version Control: Leverage GitHub's version control features to track changes, compare solutions, and collaborate with others.
 - Code Sharing: Showcase your programming skills by sharing your solutions on GitHub, making them accessible to the developer community.
 - Portfolio Building: Create a comprehensive portfolio of your coding abilities with a collection of well-organized solutions.
 
@@ -37,3 +36,4 @@ Coeforces-Git-Integration is a tool that enables you to synchronize and manage y
 - Develop Coeforces-Git-Integration as a Chrome extension for quick access and enhanced integration capabilities.
 - Implement OAuth authentication for secure and standardized access to Codeforces and GitHub APIs.
 
+# please note that it may have some limitations or known issues that are being actively addressed 
