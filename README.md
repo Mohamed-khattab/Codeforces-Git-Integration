@@ -13,7 +13,10 @@ Coeforces-Git-Integration is a tool that enables you to synchronize and manage y
 3. Click the "Sync" button to start the synchronization process.
 4. Your accepted submissions will be downloaded from Codeforces and uploaded to your GitHub repository.
 
-<img src='utils/startPage.png" alt="Coeforces-Git-Integration Screenshot" width="500">
+<div style="display: flex; flex-direction: row;">
+  <img src="utils/startPage.png" alt="Coeforces-Git-Integration Screenshot" width="400" style="margin-right: 10px;">
+  <img src="utils/githubPage.png" alt="Coeforces-Git-Integration Screenshot" width="400">
+</div>
 
 
 ## Why Use Coeforces-Git-Integration?
